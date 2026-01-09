@@ -5,3 +5,4 @@ astroML
 astropy
 corner
 emcee
+pymc
